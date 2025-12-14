@@ -1,6 +1,6 @@
-Challenge 1 (Easy): Age Classifier
-Challenge 2 (Medium): Basic Login Verifier
-Challenge 3 (Hard): Grade Classifier
+Challenge 4 (Easy): Age Classifier
+Challenge 5 (Medium): Basic Login Verifier
+Challenge 6 (Hard): Grade Classifier
 
 learned concepts
 1-Comparative Expressions;
