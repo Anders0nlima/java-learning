@@ -13,3 +13,7 @@ Challenge 7: Payment System (Abstraction)
 Challenge 8: Advanced Library (Abstraction, Inheritance, and Aggregation)
 Challenge 9: Geometry System (Interfaces and Advanced Polymorphism)
 Challenge 10: Company (All Pillars in One Project)
+
+- Extra Challenge 1: RPG System (Interface, Polymorphism, and Composition)
+- Extra Challenge 2: Super Banking System (Abstraction and Composition)
+- Extra Challenge 3: E-commerce with Promotions (Inheritance and Business Rules)
