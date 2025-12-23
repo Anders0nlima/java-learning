@@ -1,3 +1,32 @@
+2- Object-Oriented Programming (OOP)
+
+2.1. Fundamental Concepts
+What is Object, 
+Classes, 
+Packages, 
+Interfaces.
+
+2.2. Methods and Scope
+Access Modifiers,
+Return Types, 
+Parameters,
+Instance,
+Static Methods.
+
+2.3. Inheritance and Polymorphism
+Implementation of inheritance,
+Method overriding.
+
+2.4. Encapsulation and Abstraction
+Encapsulation(Getters/Setters),
+Abstract Classes.
+
+2.5. Other OOP Concepts
+Composition,
+Aggregation.
+
+---------------------------------------------------------------------------------
+
 - Easy
 Challenge 1: Product Registration (Classes and Encapsulation)
 Challenge 2: Area Calculation (Static Methods and Instance)
